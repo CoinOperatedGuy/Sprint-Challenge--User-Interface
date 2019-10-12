@@ -34,11 +34,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+    blcok takes up as much space as their parent element will allow, while inline allows for elements to be nested within other elements without disrupting the flow of content.
+
 3. What are the 4 areas of the box model?
+    
+    content, padding, border, margin.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+    cross-axis
 
 5. Explain why git is valuable to a team of developers.
 
